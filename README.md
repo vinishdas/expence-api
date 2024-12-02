@@ -1,6 +1,4 @@
-Here's a simple **README.md** template for your expense API program. Customize it based on your specific project details.
-
----
+ 
 
 # **Expense API**
 
@@ -92,4 +90,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Let me know if you'd like to add more details! 😊
+ 
